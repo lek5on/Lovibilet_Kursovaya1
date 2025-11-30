@@ -59,7 +59,7 @@ python bot.py
   - удалить подписку (через кнопку или команду `/unsubscribe <id>`).
 
 
-## Контакт / авторство
-Репозиторий: https://github.com/azrafnurazim/kursovaya  
+## Контакт / авторство 
+Репозиторий: github.com/lek5on/Lovibilet_Kursovaya1
 Автор: LEK5ON
 
