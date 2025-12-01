@@ -20,7 +20,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/azrafnurazim/kursovaya.git
+git clone https://github.com/lek5on/Lovibilet_Kursovaya1.git
 cd kursovaya
 ```
 
